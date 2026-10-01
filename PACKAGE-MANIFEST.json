@@ -1,0 +1,16 @@
+{
+  "name": "2.5vibePet",
+  "version": "1.0.0",
+  "date": "2026-10-01",
+  "target": "PET4032 BASIC4 graphics keyboard 32 KB, stock 6502 1 MHz",
+  "softwareLicense": "PolyForm Noncommercial 1.0.0",
+  "documentationLicense": "CC BY-NC 4.0",
+  "audio": false,
+  "permanentFiles": 36,
+  "referenceSHA256": {
+    "build.py": "F03F6C8ACF2E33EA3B497AF47B93499D8DEF74E04D579D1ADD5C05BA36EABCFB",
+    "src/pet-runtime.asm": "0FC7A0F29E2A1325A6E5E08BEFFE8D174B14F7E0A5D90B104703FFA43C9E987E",
+    "demos/infinite-auto.prg": "CFB72AEB7C59B5976F7C0EED278041F97D2061555BE5CCA66ADE3B2E4D0E8B9C",
+    "demos/infinite-interactive.prg": "E035A8217F839B3BC34FD1E5D96A00AA44C2776FAC21CBA6371DE42D7545EDDB"
+  }
+}
